@@ -1,0 +1,22 @@
+/* Cambiar color de fondo de la página */
+body {
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+  color: #333333;
+  margin: 20px;
+}
+h1 {
+  color: #0066cc;
+  text-align: center;
+  font-size: 36px;
+}
+
+h2 {
+  color: #009999;
+  font-size: 28px;
+}
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  text-align: justify;
+}
