@@ -5,6 +5,7 @@
 </head>
 <body>
 	<p> Se agrego una linea extra </p>
+	<p> MODIFICAMOS EL DOCUMENTO</P>
   <script>
     document.write("¡Hola Mundo!");
   </script>
