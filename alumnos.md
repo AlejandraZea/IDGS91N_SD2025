@@ -5,6 +5,6 @@ Luis Eduardo Aguilar
 Ricardo Alonso Rios
 Hector M. Valdivia
 Blanca Lucia Renteria
-Evan Salgado Ramirez
-Alejandra Martinez Esparza
-Reyna Gonzalez Camarena
+Evan Leonardo Salgado Ramirez
+KARLA Alejandra Martinez Esparza
+Reyna Mireya Gonzalez Camarena
