@@ -8,3 +8,7 @@ Blanca Lucia Renteria
 Evan Leonardo Salgado Ramirez
 KARLA Alejandra Martinez Esparza
 Reyna Mireya Gonzalez Camarena
+
+Jorge Campos Chaparro
+Blanca Estela Chavarria
+Ivonne Siqueiros
